@@ -1,5 +1,8 @@
 # IMA-java-algorithm
 
+- Nama: Diki
+- Kelas: RPLA 46 02
+
 ## Code
 [Code](https://github.com/mahasiswa-biasa/IMA-java-algorithm/blob/main/main.java)
 
