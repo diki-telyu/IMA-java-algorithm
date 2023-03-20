@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T01:36:11.200Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="uatLbk5yNpYd_vn4s4A3" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T08:30:43.860Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="4tqAjn9vZxyNggYYNfGm" version="21.0.6" type="github">
   <diagram name="Page-1" id="1kPGij2L8aaq1zZi-YPX">
-    <mxGraphModel dx="1363" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,7 +201,7 @@
             <mxPoint x="908" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SQEQMkS5_F152J73rqHT-55" value="Kode Transaksi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SQEQMkS5_F152J73rqHT-55" value="ID Transaksi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="430" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SQEQMkS5_F152J73rqHT-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="SQEQMkS5_F152J73rqHT-55" source="SQEQMkS5_F152J73rqHT-49">
@@ -333,6 +333,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="820" y="840" as="sourcePoint" />
             <mxPoint x="900" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQEQMkS5_F152J73rqHT-94" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="260" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SQEQMkS5_F152J73rqHT-95" value="" style="endArrow=none;html=1;rounded=0;entryX=1.004;entryY=0.549;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" target="SQEQMkS5_F152J73rqHT-94" source="SQEQMkS5_F152J73rqHT-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="812" y="282" as="sourcePoint" />
+            <mxPoint x="860" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
